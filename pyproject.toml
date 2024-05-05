@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 [project]
 
 name = "pgs3"
-version = "0.0.1"
+version = "0.0.2"
 description = "A command-line tool for backing up and restoring PostgreSQL databases to/from S3-compatible storage."
 authors = [
     { name = "Hao Wu", email = "haowu@dataset.sh" },
